@@ -1,1 +1,0 @@
-import{j as r}from"./latin-600-lxE_ZjDa.js";import{P as t}from"./index-DSQbKlf5.js";import"./react-three-fiber.esm-Cc_Ouq6n.js";function o({src:e}){return r.jsx(t,{className:"paper3d",sheet:{width:2.32,height:1},stock:"printer",content:{type:"image",src:e},behavior:{type:"crumple",progress:.3,coarseness:.35,ball:0},surface:{grain:.4,aging:.1},autoplay:!0})}export{o as default};
